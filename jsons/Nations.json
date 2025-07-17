@@ -61,10 +61,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0,112,54],
-		"innerColor": [112,0,112],
+		"outerColor": [112,0,112],
+		"innerColor": [0,112,54],
 		"uniqueName": "Shiva",
-		"uniques": ["[+50]% Strength bonus for [Land] units <when at war>","Cannot build [Settler] units"],
+		"uniques": ["[+50]% Strength bonus <for [Land] units> <when at war>","Cannot build [Settler] units"],
 		"cities": ["Empire Kushan"]
 	}
 ]
