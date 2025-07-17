@@ -1,17 +1,21 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "White Falcon",	
+		"replaces": "Settler",
+		"uniqueTo": "Midland",
+		"unitType": "Civilian",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"cost": 106,
+		"uniques": ["[+15] Strength"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Kushans Wizard",
+		"replaces": "Settler",
+		"uniqueTo": "Kushan",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["[+2] Sight"],
+		"hurryCostModifier": 20
 ]
