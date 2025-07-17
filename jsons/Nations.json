@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Midland",
-		"leaderName": "King of Midland",
+		"leaderName": "King",
 		"adjective": ["midlands"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
@@ -30,10 +30,7 @@
 		"outerColor": [252,176,64],
 		"innerColor": [191,30,46],
 		"uniqueName": "GodHand",
-		"uniques": ["[+2 Faith] from [Camp] tiles", "[+2 Production] from [Camp] tiles","Cannot build [Settler] units"],
-		"cities": ["The Midland","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": ["[+2 Faith] from [Camp] tiles [in this city]", "[+2 Production] from [Camp] tiles [in all city]","Cannot build [Settler] units"],
+		"cities": ["The Midland"]
 	}
 ]
