@@ -26,7 +26,8 @@
           "Freedom": 6,
           "Autocracy": 7,
           "Order": 6
-      },
+      }
+  },
     {
     "name": "Ganishka",
     "culture": 6,
@@ -55,4 +56,5 @@
           "Autocracy": 6,
           "Order": 7
       }
-    ]
+  }
+]
