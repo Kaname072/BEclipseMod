@@ -6,7 +6,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["[+1] Sight"],
+		"uniques": [""],
 		"hurryCostModifier": 20
 	},
 	{
@@ -16,6 +16,6 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["[+1] Sight"],
+		"uniques": [""],
 		"hurryCostModifier": 20
 ]
