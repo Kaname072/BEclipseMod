@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apostle",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"replaces": "Warrior",
+		"movement": 1,
+		"strength": 15,
+		"cost": 30,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "elephant"
+  }
+]
