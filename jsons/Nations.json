@@ -64,7 +64,7 @@
 		"outerColor": [112,0,112],
 		"innerColor": [0,112,54],
 		"uniqueName": "Shiva",
-		"uniques": ["[+50]% Strength bonus <for [Land] units> <when at war>","Cannot build [Settler] units"],
+		"uniques": ["[+50]% Strength <for [Land] units> <when at war>","Cannot build [Settler] units"],
 		"cities": ["Empire Kushan"]
 	}
 ]
