@@ -18,16 +18,16 @@ NationIcons/Kushan
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+UnitIcons/White Falcon
   rotate: false
-  xy: 4, 4
+  xy: 300, 10p
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Kushans Wizard
   rotate: false
-  xy: 328, 4
+  xy: 400, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
