@@ -61,7 +61,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [112,0,112],
+		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
 		"uniqueName": "Shiva",
 		"uniques": ["[+50]% Strength <for [Land] units> <when at war>","Cannot build [Settler] units"],
