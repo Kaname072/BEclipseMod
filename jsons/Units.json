@@ -1,21 +1,29 @@
 [
 	{
 		"name": "White Falcon",	
-		"replaces": "Settler",
-		"uniqueTo": "Midland",
+		"replaces": "Great General",
+		"uniqueTo": "Midland"
 		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 106,
-		"uniques": [""],
-		"hurryCostModifier": 20
+		"uniques": [
+           "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	},
 	{
 		"name": "Kushans Wizard",
-		"replaces": "Settler",
-		"uniqueTo": "Kushan",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 106,
-		"uniques": [""],
-		"hurryCostModifier": 20
+		"replaces": "Archer",
+		"uniqueTo": "Kushan"
+		"unitType": "Archery",
+		"movement": 1,
+		"strength": 6,
+		"rangedStrength": 7,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
 ]
