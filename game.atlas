@@ -25,9 +25,16 @@ UnitIcons/Apostle
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/White Falcon
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Kushans Wizard
   rotate: false
-  xy: 400, 100
+  xy: 300, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
