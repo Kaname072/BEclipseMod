@@ -27,10 +27,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [191,30,46],
+		"innerColor": [252,176,64],
 		"uniqueName": "GodHand",
-		"uniques": ["[+2 Faith] in [Camp] tiles, [+2 Production] in [Camp] tiles","Cannot build [Settler] units"],
+		"uniques": ["[+2 Faith] in [Camp] tiles", "[+2 Production] in [Camp] tiles","Cannot build [Settler] units"],
 		"cities": ["The Midland","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
