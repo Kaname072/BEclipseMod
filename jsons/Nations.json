@@ -5,7 +5,7 @@
 		"adjective": ["midlands"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
-		
+		"personality": "King",		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
@@ -39,6 +39,7 @@
 		"adjective": ["kushans"],
 		"startBias": ["Desert","Avoid [Grassland]","Avoid [Plains]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Ganishka",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
