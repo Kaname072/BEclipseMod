@@ -1,5 +1,19 @@
 [
-  {
+	{
+			"name": "White Falcon",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniqueTo": "Midland",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
     "name": "Apostle",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
