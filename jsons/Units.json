@@ -5,8 +5,8 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Midland",
 		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Empire enters a [12]-turn Golden Age <by consuming this unit>",
+            "[+30]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
@@ -39,5 +39,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "pishacha"
+	},
+	{
+		"name": "Kushan Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Kushan",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 6,
+		"cost": 30,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["[+1] Sight","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "arrow"
 	}
 ]
