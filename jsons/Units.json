@@ -23,6 +23,21 @@
 		"cost": 30,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"attackSound": "elephant"
-  }
+		"attackSound": "pishacha"
+	},
+	{
+		"name": "Pishacha",
+		"replaces": "Horseman",
+		"uniqueTo": "Kushan",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 15,
+		"cost": 80,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "pishacha"
+	}
 ]
