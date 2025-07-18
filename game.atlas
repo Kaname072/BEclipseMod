@@ -1,5 +1,5 @@
 
-game2.png
+game1.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -83,14 +83,14 @@ NationIcons/Holy See
   index: -1
 TileSets/FantasyHex/Tiles/Ownerless Village
   rotate: false
-  xy: 32, 233
+  xy: 33, 233
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Owned Village
   rotate: false
-  xy: 132, 233
+  xy: 133, 233
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
