@@ -1,7 +1,6 @@
 [
   {
     "name": "Owned Village",
-		"terrainsCanBeBuiltOn": ["Ownerless Village"],
 		"production": 5,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
