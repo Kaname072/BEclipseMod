@@ -29,9 +29,9 @@
 
 		"outerColor": [252,176,64],
 		"innerColor": [191,30,46],
-		"uniqueName": "GodHand",
+		"uniqueName": "Monoteism",
 		"uniques": ["[+2 Faith] from [Camp] tiles [in this city]", "[+2 Production] from [Camp] tiles [in all city]","Cannot build [Settler] units"],
-		"cities": ["The Midland"]
+		"cities": ["Midland Kingdom"]
 	},
 	{
 		"name": "Kushan",
@@ -40,32 +40,33 @@
 		"startBias": ["Desert","Avoid [Grassland]","Avoid [Plains]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Ganishka",
+		"favoredReligion": "Hinduism"
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Ganishka Emperior is a wonderfull and powerfull man! after some problems with clans in our home",
+		"startIntroPart2": "Ganishka take the control. Him is here to obliterate everything in your way, to the Kushans Empire!!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Prepare to die!",
+		"attacked": "HAHAHA",
+		"defeated": "How is it possible?!",
+		"introduction": "Another nation in here?",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Come on!","What you need?","You may begin."],
+		"neutralNo": ["No.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","Yes!"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "YOU!!",
+		"hateLetsHearIt": ["Dont here!","...","You again??"],
+		"hateNo": ["No! this is stupid!","Never!","..."],
+		"hateYes": ["fine...","well... yes...","ok..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Dont mess with me again!",
+		"tradeRequest": "hmmm?",
 
 		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
-		"uniqueName": "Shiva",
-		"uniques": ["[+50]% Strength <for [Land] units> <when at war>","Cannot build [Settler] units"],
-		"cities": ["Empire Kushan"]
+		"uniqueName": "Shiva Destruction",
+		"uniques": ["[+50]% Strength <for [Land] units> <when at war>","[+20]% [Production] <when at war>"],
+		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
