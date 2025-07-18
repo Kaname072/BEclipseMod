@@ -65,8 +65,10 @@
 
 		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
-		"uniqueName": "Shiva Destruction",
-		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>","[+2] [Science] per every [1] [Population] [in all cities] <when at war>","[+2] [Faith] from [Water] tiles"],
+		"uniqueName": "Kushans Domination",
+		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
+			"When defeating a [Land] unit, earn [30] Production and recruit it <with [50]% chance>","[+2] [Faith] from [Water] tiles [in this city]",
+			"[+2] [Science] from every [Luxury]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
