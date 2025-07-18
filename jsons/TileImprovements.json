@@ -1,6 +1,7 @@
 [
   {
     "name": "Owned Village",
+	  "terrainsCanBeBuiltOn": ["Grassland","Desert","Tundra"],
 		"production": 5,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
