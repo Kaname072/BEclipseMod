@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ManMade Behelit",
+    "replaces": "Barracks",
+    "uniqueTo": "Kushans",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]","New [Daka] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+  }
+]
