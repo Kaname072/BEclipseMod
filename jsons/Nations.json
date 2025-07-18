@@ -34,10 +34,10 @@
 		"cities": ["Midland Kingdom"]
 	},
 	{
-		"name": "Kushan",
+		"name": "Kushans",
 		"leaderName": "Ganishka",
 		"adjective": ["kushans"],
-		"startBias": ["Desert","Avoid [Grassland]","Avoid [Plains]"],
+		"startBias": ["Desert","Avoid [Grassland]","Avoid [Plains]","Avoid [Snow]","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Ganishka",
 		"favoredReligion": "Hinduism"
@@ -67,8 +67,8 @@
 		"innerColor": [0,112,54],
 		"uniqueName": "Kushans Expansion",
 		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
-			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [50]% chance>","[+2 Faith] from [Water] tiles [in this city]",
-			"[+2 Science] from every [Luxury] resource [in this city]"],
+			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [53]% chance>","[+2 Faith] from [Water] tiles [in this city]",
+			"[+2 Science] from [Luxury] owned [in this city]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
