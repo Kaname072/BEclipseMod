@@ -65,8 +65,8 @@
 		"afterPeace": "Dont mess with me again!",
 		"tradeRequest": "hmmm?",
 
-		"outerColor": [225,0,225],
-		"innerColor": [115,0,209],
+		"outerColor": [115,0,209],
+		"innerColor": [0,200,53],
 		"uniqueName": "Kushans Expansion",
 		"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [37]% chance> <when not at war> <hidden from users>",
 			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [57]% chance> <when at war> <hidden from users>",
