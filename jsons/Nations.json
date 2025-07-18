@@ -68,9 +68,11 @@
 		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
 		"uniqueName": "Kushans Expansion",
-		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
-			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [53]% chance>","[+2 Faith] from [Water] tiles [in this city]",
-			"[+2 Science] from [Luxury resource] [in this city]"],
+		"uniques": ["Comment [After kill a Land Enemy Unit, has 27% chance do recruit it, when in wars this chance up to 57%",
+			"[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
+			"When defeating a [Land] unit, earn [10] Gold and recruit it <with [37]% chance> <when not at war> <hidden from users>",
+			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [57]% chance> <when at war> <hidden from users>","[+2 Faith] from [Water] tiles [in this city]",
+			"[+2 Science] from every [Luxury resource] [in this city]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
