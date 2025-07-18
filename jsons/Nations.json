@@ -66,7 +66,7 @@
 		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
 		"uniqueName": "Shiva Destruction",
-		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+50]% [Production] <when at war>","[+2] [Science] per [1] [Population] [in all cities] <when at war>","[+2] [Faith] from every policy"],
+		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>","[+2] [Science] per every [1] [Population] [in all cities] <when at war>","[+2] [Faith] from [Water] tiles"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
