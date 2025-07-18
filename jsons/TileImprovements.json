@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Owned Village",
+		"terrainsCanBeBuiltOn": ["Ownerless Village"],
+		"production": 5,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"]
+  }
+]
