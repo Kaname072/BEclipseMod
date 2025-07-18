@@ -28,7 +28,7 @@
 	{
 		"name": "Pishacha",
 		"replaces": "Horseman",
-		"uniqueTo": "Kushan",
+		"uniqueTo": "Kushans",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 15,
@@ -43,7 +43,7 @@
 	{
 		"name": "Kushan Scout",
 		"replaces": "Scout",
-		"uniqueTo": "Kushan",
+		"uniqueTo": "Kushans",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 6,
@@ -56,7 +56,7 @@
 	{
 		"name": "Makara",
 		"replaces": "Trireme",
-		"uniqueTo": "Kushan",
+		"uniqueTo": "Kushans",
 		"unitType": "Melee Water",
 		"movement": 4,
 		"strength": 14,
@@ -70,7 +70,7 @@
 	{
 		"name": "Daka",
 		"replaces": "Pikeman",
-		"uniqueTo": "Kushan",
+		"uniqueTo": "Kushans",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 18,
@@ -85,7 +85,7 @@
 		"name": "Kushan Ship",
 		"replaces": "Caravel",
 		"unitType": "Melee Water",
-		"uniqueTo": "Kushan",
+		"uniqueTo": "Kushans",
 		"movement": 4,
 		"strength": 20,
 		"cost": 120,
