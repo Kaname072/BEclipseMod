@@ -1,5 +1,5 @@
 
-game1.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -32,9 +32,9 @@ UnitIcons/White Falcon
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kushans Wizard
+UnitIcons/Pishacha
   rotate: false
-  xy: 300, 100
+  xy: 500, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
