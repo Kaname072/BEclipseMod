@@ -37,9 +37,9 @@
       "happiness": 2,
       "production": 7,
       "science": 5,
-      "military": 10,
-      "aggressive": 9
-      "declareWar": 10,
+      "military": 11,
+      "aggressive": 12
+      "declareWar": 13,
       "commerce": 4,
       "diplomacy": 2,
       "loyal": 3,
