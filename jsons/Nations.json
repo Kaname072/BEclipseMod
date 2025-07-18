@@ -66,7 +66,7 @@
 		"tradeRequest": "hmmm?",
 
 		"outerColor": [225,0,225],
-		"innerColor": [0,200,53],
+		"innerColor": [100,200,53],
 		"uniqueName": "Kushans Expansion",
 		"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [37]% chance> <when not at war> <hidden from users>",
 			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [57]% chance> <when at war> <hidden from users>",
@@ -74,5 +74,41 @@
 			"[+2 Faith] from [Water] tiles [in this city]","[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
 			"[+2 Science] from every [Luxury resource] [in this city]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
+	},
+	{
+		"name": "Holy See",
+		"leaderName": "Pope",
+		"adjective": ["vaticans"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Pope",		
+		"startIntroPart1": "We have plunged into wars for the kingdom, seeking our full sovereignty!",
+		"startIntroPart2": "But now with the King, Princess Charlotte, and the Band of the White Falcon, we will achieve our victory",
+		
+		"declaringWar": "In God name, you gonna fall!",
+		"attacked": "Thas din't have pardon!",
+		"defeated": "How dare you betray me, White Hawk Band?...",
+		"introduction": "We are Midland Kingdom, God bless your nation.",
+		
+		"neutralHello": "Hello! what you need?",
+		"neutralLetsHearIt": ["Hmmm?","You is here for what?","What you need?"],
+		"neutralNo": ["No, sorry","No!","I refuse."],
+		"neutralYes": ["Good!","Yes.","I concord"],
+
+		"hateHello": "Is you...",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["Never!","you is not agreeing with me!","I beg your pardon?"],
+		"hateYes": ["fine...","all way...","yes..."],
+		
+		"afterPeace": "Thank you, God Bless you, and your nation... for now...",
+		"tradeRequest": "You are interesting?",
+
+		"outerColor": [255,255,102],
+		"innerColor": [255,255,255],
+		"uniqueName": "Monoteism",
+		"uniques": ["[+3 Faith] from [Mine] tiles [in this city]",
+			"[+3 Faith] from [Farm] tiles [in this city]","Cannot build [Settler] units",
+		"Land units may cross [Mountain] tiles after the first [Great Prophet] is earned"],
+		"cities": ["Vatican"]
 	}
 ]
