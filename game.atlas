@@ -1,5 +1,5 @@
 
-game3.png
+game2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -60,7 +60,7 @@ UnitIcons/Makara
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kushan Scout
+UnitIcons/Kushans Scout
   rotate: false
   xy: 400, 0
   size: 100, 100
@@ -77,6 +77,27 @@ BuildingIcons/ManMade Behelit
 NationIcons/Holy See
   rotate: false
   xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ownerless Village
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Owned Village
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ownerless Village
+  rotate: false
+  xy: 200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
