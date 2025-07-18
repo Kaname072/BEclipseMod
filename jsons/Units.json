@@ -52,5 +52,48 @@
 		"uniques": ["[+1] Sight","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Makara",
+		"replaces": "Trireme",
+		"uniqueTo": "Kushan",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 14,
+		"cost": 50,
+		"requiredTech": "Sailing",
+		"uniques": ["[-75]% Strength <when defending> <in [Ocean] tiles>", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "elephant"
+	},
+	{
+		"name": "Daka",
+		"replaces": "Pikeman",
+		"uniqueTo": "Kushan",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+25]% Strength <vs [City]>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "pishacha"
+	},
+	{
+		"name": "Kushan Ship",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		"uniqueTo": "Kushan",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [0]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	}
 ]
