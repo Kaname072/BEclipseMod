@@ -30,7 +30,7 @@
 		"outerColor": [252,176,64],
 		"innerColor": [191,30,46],
 		"uniqueName": "Monoteism",
-		"uniques": ["[+2 Faith] from [Camp] tiles [in this city]", "[+2 Production] from [Camp] tiles [in all city]","Cannot build [Settler] units"],
+		"uniques": ["[+2 Faith] from [Camp] tiles [in this city]", "[+2 Production] from [Camp] tiles [in this city]","Cannot build [Settler] units"],
 		"cities": ["Midland Kingdom"]
 	},
 	{
@@ -66,7 +66,7 @@
 		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
 		"uniqueName": "Shiva Destruction",
-		"uniques": ["[+50]% Strength <for [Land] units> <when at war>","[+20]% [Production] <when at war>"],
+		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+50]% [Production] <when at war>","[+2] [Science] per [1] [Population] [in all cities] <when at war>","[+2] [Faith] from every policy"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
