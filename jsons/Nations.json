@@ -42,7 +42,7 @@
 		"personality": "Ganishka",
 		"favoredReligion": "Hinduism"
 		
-		"startIntroPart1": "Ganishka Emperior is a wonderfull and powerfull man! after some problems with clans in our home",
+		"startIntroPart1": "Ganishka Emperor is a wonderfull and powerfull man! after some problems with clans in our home",
 		"startIntroPart2": "Ganishka take the control. Him is here to obliterate everything in your way, to the Kushans Empire!!!",
 		
 		"declaringWar": "Prepare to die!",
@@ -65,10 +65,10 @@
 
 		"outerColor": [112,30,112],
 		"innerColor": [0,112,54],
-		"uniqueName": "Kushans Domination",
+		"uniqueName": "Kushans Expansion",
 		"uniques": ["[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
-			"When defeating a [Land] unit, earn [30] Production and recruit it <with [50]% chance>","[+2] [Faith] from [Water] tiles [in this city]",
-			"[+2] [Science] from every [Luxury]"],
+			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [50]% chance>","[+2 Faith] from [Water] tiles [in this city]",
+			"[+2 Science] from every [Luxury] resource [in this city]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	}
 ]
