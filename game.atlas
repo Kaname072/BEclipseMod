@@ -84,7 +84,7 @@ NationIcons/Holy See
 TileSets/FantasyHex/Tiles/Ownerless Village
   rotate: false
   xy: 44, 249
-  size: 31, 42
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
