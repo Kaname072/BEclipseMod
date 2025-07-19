@@ -9,7 +9,7 @@
 		"startIntroPart1": "We have plunged into wars for the kingdom, seeking our full sovereignty!",
 		"startIntroPart2": "But now with the King, Princess Charlotte, and the Band of the White Falcon, we will achieve our victory",
 		
-		"declaringWar": "In God name, you gonna fall!",
+		"declaringWar": "In God name, you will fall!",
 		"attacked": "Thas din't have pardon!",
 		"defeated": "How dare you betray me, White Hawk Band?...",
 		"introduction": "We are Midland Kingdom, God bless your nation.",
@@ -33,7 +33,7 @@
 		"uniques": ["[+2 Faith] from [Camp] tiles [in this city]",
 			"[+2 Production] from [Camp] tiles [in this city]","Cannot build [Settler] units",
 		"Land units may cross [Mountain] tiles after the first [Great General] is earned"],
-		"cities": ["Midland Kingdom"]
+		"cities": ["Midland Kingdom","Second Village"]
 	},
 	{
 		"name": "Kushans",
@@ -47,9 +47,9 @@
 		"startIntroPart1": "Ganishka Emperor is a wonderfull and powerfull man! after some problems with clans in our home",
 		"startIntroPart2": "Ganishka take the control. Him is here to obliterate everything in your way, to the Kushans Empire!!!",
 		
-		"declaringWar": "Prepare to die!",
+		"declaringWar": "Prepare your warriors!",
 		"attacked": "HAHAHA",
-		"defeated": "How is it possible?!",
+		"defeated": "How is it possible?! NO! NO! NO!",
 		"introduction": "Another nation in here?",
 		
 		"neutralHello": "How are you doing?",
@@ -70,25 +70,25 @@
 		"uniqueName": "Kushans Expansion",
 		"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [37]% chance> <when not at war> <hidden from users>",
 			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [57]% chance> <when at war> <hidden from users>",
-			"Comment [After kill a Land Enemy Unit, has 27% chance do recruit it, when in wars this chance up to 57%]",
-			"[+2 Faith] from [Water] tiles [in this city]","[+75]% Strength <for [All] units> <when at war>","[+100]% [Production] <when at war>",
+			"Comment [After kill a Land Enemy Unit, has 37% chance do recruit it, when in wars this chance up to 57%]",
+			"[+2 Faith] from [Water] tiles [in this city]","[+100]% Strength <for [All] units> <when at war>","[+80]% [Production] <when at war>",
 			"[+2 Science] from every [Luxury resource]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	},
 	{
 		"name": "Holy See",
-		"leaderName": "Pope",
+		"leaderName": "Pope Pontiff",
 		"adjective": ["vaticans"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Pope",		
-		"startIntroPart1": "We have plunged into wars for the kingdom, seeking our full sovereignty!",
-		"startIntroPart2": "But now with the King, Princess Charlotte, and the Band of the White Falcon, we will achieve our victory",
+		"startIntroPart1": "Salutations! Im a Pope Pontiff! and this is kingdom of God",
+		"startIntroPart2": "We are in hero to purification this land and convert all to unique God.",
 		
-		"declaringWar": "In God name, you gonna fall!",
-		"attacked": "Thas din't have pardon!",
-		"defeated": "How dare you betray me, White Hawk Band?...",
-		"introduction": "We are Midland Kingdom, God bless your nation.",
+		"declaringWar": "In God name, i will destroy",
+		"attacked": "God pardon you! but me no!!",
+		"defeated": "But... the White Falcon say this is not never happening...",
+		"introduction": "We are Vaticans City!, God bless your nation.",
 		
 		"neutralHello": "Hello! what you need?",
 		"neutralLetsHearIt": ["Hmmm?","You is here for what?","What you need?"],
@@ -100,8 +100,8 @@
 		"hateNo": ["Never!","you is not agreeing with me!","I beg your pardon?"],
 		"hateYes": ["fine...","all way...","yes..."],
 		
-		"afterPeace": "Thank you, God Bless you, and your nation... for now...",
-		"tradeRequest": "You are interesting?",
+		"afterPeace": "Thank you, God Bless you, and your nation.",
+		"tradeRequest": "Brother, you need it?",
 
 		"outerColor": [225,225,108],
 		"innerColor": [255,255,255],
@@ -109,6 +109,6 @@
 		"uniques": ["[+3 Faith] from [Mine] tiles [in this city]",
 			"[+3 Faith] from [Farm] tiles [in this city]","Cannot build [Settler] units",
 		"Land units may cross [Mountain] tiles after the first [Great Prophet] is earned"],
-		"cities": ["Vatican"]
+		"cities": ["Vatican","Constantinopla"]
 	}
 ]
