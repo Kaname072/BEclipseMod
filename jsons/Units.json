@@ -41,7 +41,7 @@
 		"attackSound": "pishacha"
 	},
 	{
-		"name": "Kushan Scout",
+		"name": "Kushans Scout",
 		"replaces": "Scout",
 		"uniqueTo": "Kushans",
 		"unitType": "Scout",
@@ -62,7 +62,7 @@
 		"strength": 14,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["[-75]% Strength <when defending> <in [Ocean] tiles>", "Never appears as a Barbarian unit"],
+		"uniques": ["[-50]% Strength <when defending> <in [Ocean] tiles>","[+100]% Strength <vs [Land] units>", "Never appears as a Barbarian unit"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "elephant"
@@ -76,7 +76,7 @@
 		"strength": 18,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+25]% Strength <vs [City]>"],
+		"uniques": ["[+25]% Strength <vs [City]>","[+15] HP when healing <when attacking>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "pishacha"
@@ -110,7 +110,7 @@
             "Is part of Great Person group [Prophet]",
 			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
 			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-			"Takes your religion over the one in their birth city","Prevents spreading of religion to the city it is next to"],
+			"Takes your religion over the one in their birth city"],
 		"movement": 2,
 		"religiousStrength": 1100
 	}
