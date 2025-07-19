@@ -1,14 +1,16 @@
 [
   {
-    "name": "Ownerless Village",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra","Plains"],
-		"production": 2,
-		"improvement": "Owned Village",
-		"improvementStats": {"production": 2},
-		"uniques": ["Generated on every [13] tiles <in [{Featureless} {Tundra}] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [12] tiles <in [{Featureless} {Desert}] tiles>",
-					"Generated on every [9] tiles <in [{Featureless} {Grassland}] tiles>",
-		"Generated on every [11] tiles <in [{Featureless} {Plains}] tiles>"]
+	  "name": "Ownerless Village",
+	  "resourceType": "Bonus",
+	  "terrainsCanBeFoundOn": ["Grassland","Desert","Tundra","Plains"],
+	  "production": 2,
+	  "food": 2,
+	  "culture": 1
+	  "improvement": "Owned Village",
+	  "improvementStats": {"production": 2},
+	  "uniques": ["Generated on every [19] tiles <in [{Featureless} {Tundra}] tiles> <in tiles without [Fresh Water]>",
+		  "Generated on every [18] tiles <in [{Featureless} {Desert}] tiles>",
+		  "Generated on every [16] tiles <in [{Featureless} {Grassland}] tiles>",
+		  "Generated on every [17] tiles <in [{Featureless} {Plains}] tiles>"]
   }
 ]
