@@ -6,8 +6,8 @@
 		"production": 2,
 		"improvement": "Owned Village",
 		"improvementStats": {"production": 2},
-		"uniques": ["Generated on every [9] tiles <in [{Featureless} {Tundra}] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [8] tiles <in [{Featureless} {Desert}] tiles>",
-					"Generated on every [7] tiles <in [{Featureless} {Grassland}] tiles>"]
+		"uniques": ["Generated on every [29] tiles <in [{Featureless} {Tundra}] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [28] tiles <in [{Featureless} {Desert}] tiles>",
+					"Generated on every [27] tiles <in [{Featureless} {Grassland}] tiles>"]
   }
 ]
