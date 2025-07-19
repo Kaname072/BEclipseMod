@@ -67,6 +67,13 @@ UnitIcons/Kushans Scout
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Great White Falcon
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/ManMade Behelit
   rotate: false
   xy: 0, 100
