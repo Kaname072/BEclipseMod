@@ -83,14 +83,14 @@ NationIcons/Holy See
   index: -1
 TileSets/FantasyHex/Tiles/Ownerless Village
   rotate: false
-  xy: 44, 249
+  xy: 46, 243
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Owned Village
   rotate: false
-  xy: 144, 249
+  xy: 146, 243
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
