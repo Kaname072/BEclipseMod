@@ -38,7 +38,7 @@
       "production": 7,
       "science": 5,
       "military": 11,
-      "aggressive": 12
+      "aggressive": 12,
       "declareWar": 13,
       "commerce": 4,
       "diplomacy": 2,
@@ -55,6 +55,35 @@
           "Freedom": 3,
           "Autocracy": 6,
           "Order": 7
+      }
+  },
+  {
+    "name": "Pope",
+    "culture": 4,
+      "faith": 8,
+      "food": 5,
+      "gold": 5,
+      "happiness": 5,
+      "production": 6,
+      "science": 4,
+      "military": 6,
+      "aggressive": 4,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 7,
+      "expansion": 5,
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 1,
+          "Honor": 3,
+          "Commerce": 4,
+          "Patronage": 6,
+          "Piety": 9,
+          "Rationalism": 2,
+          "Freedom": 4,
+          "Autocracy": 4,
+          "Order": 3,
       }
   }
 ]
