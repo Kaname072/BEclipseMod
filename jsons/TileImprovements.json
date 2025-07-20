@@ -5,6 +5,6 @@
 		"production": 3,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["[+1 Production] <after discovering [Civil Service]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"]
   }
 ]
