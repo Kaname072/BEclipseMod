@@ -39,7 +39,7 @@
 		"name": "Kushans",
 		"leaderName": "Ganishka",
 		"adjective": ["kushans"],
-		"startBias": ["Desert","Avoid [Grassland, Plains, Snow, Tundra]"],
+		"startBias": ["Desert","Avoid [Grassland],[Plains],[Snow],[Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Ganishka",
 		"favoredReligion": "Hinduism"
@@ -71,7 +71,7 @@
 		"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [37]% chance> <when not at war> <hidden from users>",
 			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [57]% chance> <when at war> <hidden from users>",
 			"Comment [After kill a Land Enemy Unit, has 37% chance do recruit it, when in wars this chance up to 57%]",
-			"[+2 Faith] from [Water] tiles [in this city]","[+100]% Strength <for [All] units> <when at war>","[+80]% [Production] <when at war>",
+			"[+2 Faith] from [Water] tiles [in this city]","[+50]% Strength <for [All] units> <when at war>","[+30]% [Production] <when at war>",
 			"[+2 Science] from every [Luxury resource]"],
 		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
 	},
