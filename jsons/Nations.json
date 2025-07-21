@@ -39,7 +39,7 @@
 		"name": "Kushans",
 		"leaderName": "Ganishka",
 		"adjective": ["kushans"],
-		"startBias": ["Desert","Avoid [Grassland]","Avoid [Plains]","Avoid [Snow]","Avoid [Tundra]"],
+		"startBias": ["Desert","Avoid [Grassland, Plains, Snow, Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Ganishka",
 		"favoredReligion": "Hinduism"
