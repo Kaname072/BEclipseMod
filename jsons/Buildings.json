@@ -11,6 +11,7 @@
 	{
 		"name": "Behelit",
 		"happiness": -5,
+		"uniques": ["Neighboring tiles will convert to [Fallout]"]
 		"isWonder": true,
 		"requiredTech": "Mining",
 		"quote": "Dreams need sacrifices"
