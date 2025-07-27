@@ -8,9 +8,9 @@
 	  "culture": 1
 	  "improvement": "Owned Village",
 	  "improvementStats": {"production": 2},
-	  "uniques": ["Generated on every [13] tiles <in [{Featureless} {Tundra}] tiles> <in tiles without [Fresh Water]>",
-		  "Generated on every [12] tiles <in [{Featureless} {Desert}] tiles>",
-		  "Generated on every [11] tiles <in [{Featureless} {Grassland}] tiles>",
-		  "Generated on every [10] tiles <in [{Featureless} {Plains}] tiles>"]
+	  "uniques": ["Generated on every [19] tiles <in [{Featureless} {Tundra}] tiles> <in tiles without [Fresh Water]>",
+		  "Generated on every [18] tiles <in [{Featureless} {Desert}] tiles>",
+		  "Generated on every [17] tiles <in [{Featureless} {Grassland}] tiles>",
+		  "Generated on every [16] tiles <in [{Featureless} {Plains}] tiles>"]
   }
 ]
