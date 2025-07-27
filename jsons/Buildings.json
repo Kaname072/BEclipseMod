@@ -15,7 +15,7 @@
 		"production": -5,
 		"science": 1,
 		"faith": 7,
-		"uniques": ["[+100]% City-State Influence degradation","[-100]% [Food] [in all global cities]","Influence of all other civilizations with all city-states degrades [100]% faster",
+		"uniques": ["[+100]% City-State Influence degradation","[-100]% [Food] [in all Civilization]","Influence of all other civilizations with all city-states degrades [100]% faster",
                     "Triggers the following global alert: [Anyony activate a Behelit! this is the END!!]"]
 		"isWonder": true,
 		"requiredTech": "Mining",
