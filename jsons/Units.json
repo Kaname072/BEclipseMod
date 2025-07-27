@@ -97,6 +97,22 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Shiva",
+		"uniqueTo": "Kushans",
+		"replaces": "Atomic Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 150,
+		"rangedStrength": 150,
+		"range": 10,
+		"cost": 20,
+		"requiredTech": "Mining",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [6]", "Only available <if [Shrine] is constructed>", "Self-destructs when attacking",
+			"Blast radius [3]"],
+		"attackSound": "nuke"
+	},
+	{
 		"name": "Great White Falcon",
 		"replaces": "Great Prophet",
 		"uniqueTo": "Holy See",
