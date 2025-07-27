@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Eclipse",
+        "victoryScreenHeader": "Made Eclipse with Behelit!",
+        "milestones": ["Anyone should build [Behelit]"],
+        "victoryString": "You became a God Hand member, the world is now in your hands",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+  }
+]
