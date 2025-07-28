@@ -15,14 +15,16 @@
 	},
 	{
     "name": "Apostle",
-		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
-		"replaces": "Warrior",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
 		"movement": 1,
-		"strength": 15,
-		"cost": 30,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
+		"strength": 18,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
 		"attackSound": "pishacha"
 	},
 	{
@@ -75,8 +77,8 @@
 		"movement": 2,
 		"strength": 18,
 		"cost": 90,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+25]% Strength <vs [City]>","[+15] HP when healing <when attacking>"],
+		"requiredTech": "Iron Working",
+		"uniques": ["Only available <if [ManMade Behelit] is constructed>","[+25]% Strength <vs [City]>","[+15] HP when healing <when attacking>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "pishacha"
@@ -97,18 +99,18 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Shiva",
+		"name": "Shiva Form",
 		"uniqueTo": "Kushans",
 		"replaces": "Atomic Bomb",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
-		"strength": 300,
-		"rangedStrength": 300,
+		"strength": 500,
+		"rangedStrength": 500,
 		"range": 25,
-		"cost": 20,
+		"cost": 1,
 		"requiredTech": "Agriculture",
 		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Shrine] is constructed>", "Self-destructs when attacking",
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Behelit] is constructed>", "Self-destructs when attacking",
 			"Blast radius [0]"],
 		"attackSound": "nuke"
 	},
@@ -129,5 +131,18 @@
 			"Takes your religion over the one in their birth city"],
 		"movement": 2,
 		"religiousStrength": 1100
+	},
+	{
+		"name": "Troll",
+		"replaces": "Warrior",
+		"uniqueTo": "Barbarians",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 9,
+		"cost": 10,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
 	}
 ]
