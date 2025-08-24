@@ -29,11 +29,11 @@
 
 		"outerColor": [252,176,64],
 		"innerColor": [191,30,46],
-		"uniqueName": "Monoteism",
-		"uniques": ["[+2 Faith] from [Camp] tiles [in this city]",
-			"[+2 Production] from [Camp] tiles [in this city]","Cannot build [Settler] units",
-		"Land units may cross [Mountain] tiles after the first [Great General] is earned"],
-		"cities": ["Midland Kingdom","Second Village"]
+		"uniqueName": "Family Midland",
+		"uniques": ["[+1 Production] from [Farm] tiles [in this city]",
+			"\"Borrows\" city names from other civilizations in the game",
+			"Land units may cross [Mountain] tiles after the first [Great General] is earned"],
+		"cities": ["Midland Kingdom"]
 	},
 	{
 		"name": "Kushans",
@@ -68,12 +68,13 @@
 		"outerColor": [115,0,209],
 		"innerColor": [0,200,53],
 		"uniqueName": "Kushans Expansion",
-		"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [37]% chance> <when not at war> <hidden from users>",
-			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [57]% chance> <when at war> <hidden from users>",
-			"Comment [After kill a Land Enemy Unit, has 37% chance do recruit it, when in wars this chance up to 57%]",
-			"[+2 Faith] from [Water] tiles [in this city]","[+50]% Strength <for [All] units> <when at war>","[+30]% [Production] <when at war>",
-			"[+2 Science] from every [Luxury resource]"],
-		"cities": ["Empire Kushan","Koonadeano","Ozeno","Kozambo","Zagedo","Palabotro","Ziri-Tambo"]
+		"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [40]% chance> <when not at war> <hidden from users>",
+			"When defeating a [Land] unit, earn [20] Gold and recruit it <with [60]% chance> <when at war> <hidden from users>",
+			"Comment [After kill a Land Enemy Unit, has 40% chance do recruit it, when in wars this chance up to 60%]",
+			"[+50]% Strength <for [Military] units> <when at war>",
+			"[+50]% Production when constructing [Military] units [in all cities] <when at war>",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Empire Kushan"]
 	},
 	{
 		"name": "Holy See",
@@ -106,9 +107,9 @@
 		"outerColor": [225,225,108],
 		"innerColor": [255,255,255],
 		"uniqueName": "Monoteism",
-		"uniques": ["[+3 Faith] from [Mine] tiles [in this city]",
-			"[+3 Faith] from [Farm] tiles [in this city]","Cannot build [Settler] units",
+		"uniques": ["[+1 Faith] from [Fort] tiles [in this city]",
+			"\"Borrows\" city names from other civilizations in the game",
 		"Land units may cross [Mountain] tiles after the first [Great Prophet] is earned"],
-		"cities": ["Vatican","Constantinopla"]
+		"cities": ["Vatican"]
 	}
 ]
