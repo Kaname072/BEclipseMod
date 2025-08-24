@@ -1,0 +1,16 @@
+[
+  {
+    "name":"Eclipse",
+    "text":"What your dream?",
+    "choices":[
+      {
+        "text": "Gold",
+        "triggeredUniques": ["Gain [+1000] [Gold]"]
+      },
+      {
+        "text": "Power",
+        "triggeredUniques": ["Free Great Person"]
+      },
+    ],
+  },
+]
