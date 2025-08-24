@@ -16,7 +16,6 @@
 	{
     "name": "Apostle",
 		"uniqueTo": "Barbarians",
-		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 1,
 		"strength": 18,
@@ -134,7 +133,6 @@
 	},
 	{
 		"name": "Troll",
-		"replaces": "Warrior",
 		"uniqueTo": "Barbarians",
 		"unitType": "Sword",
 		"movement": 2,
